@@ -1,0 +1,26 @@
+ [
+        {
+           "image":"https://i.ibb.co.com/4Rh2zrgW/mern.png",
+            "title":"Building Scalable Web Solutions",
+            "details":"Dive into advanced HTML, CSS, and UI design principles to create professional-looking sites. Become a full-stack web developer by mastering front-end and back-end technologies",
+            "price":6000,
+            "rating":4.5,
+            "category":"MERN"
+        },
+        {
+           "image":"https://i.ibb.co.com/W4wxWF4x/uiux.png",
+            "title":"UI/UX Masterclass",
+            "details":"Dive into advanced HTML, CSS, and UI design principles to create professional-looking sites. Become a full-stack web developer by mastering front-end and back-end technologies",
+            "price":5000,
+            "rating":4.5,
+            "category":"UI/UX"
+        },
+        {
+            "image":"https://i.ibb.co.com/r2jnnVjy/wordpress.png",
+            "title":"WordPress Development Pro",
+            "details":"Dive into advanced HTML, CSS, and UI design principles to create professional-looking sites. Become a full-stack web developer by mastering front-end and back-end technologies",
+            "price":4500,
+            "rating":4,
+            "category":"Wordpress"
+        }
+]

@@ -1,0 +1,20 @@
+.class__filters{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 1.875rem;
+    margin-bottom: 2.5rem;
+}
+
+.class__item{
+    cursor: pointer;
+    transition: .3s;
+}
+
+/* .class__item:hover{
+    color: var(--title-color);
+} */
+
+.bannerImg{
+    border-radius: 20px;
+}
